@@ -6,15 +6,15 @@ body
 h1
 {
 font-size:20px;
-color:brown;
+color:black;
 }
 h2
 {
-color:blue;
+color:black;
 }
 .intro
 {
- color: White;
+ color: black;
  background-color:blanchedalmond;
 }
 #page
